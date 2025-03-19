@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    
     //Q1 write a program to print,subtract,multiply,modulus% & division/ of two numbers;
 //    int a,b;
 //    cout<<"enter 1 no = " <<endl;
